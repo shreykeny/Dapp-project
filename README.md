@@ -1,3 +1,3 @@
 # Dapp-project
 
-<Will update project here>
+Will update project details here
